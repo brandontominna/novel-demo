@@ -39,4 +39,4 @@ The content of this repository is based on F. Scott Fitzgerald's public domain w
 
 We express gratitude to F. Scott Fitzgerald for creating this literary masterpiece that continues to captivate readers through the generations.
 
-Enjoy the journey back to the extravagant world of Gatsby and the elusive green light!
+Enjoy the journey back to the extravagant world of Gatsby and the elusive green light!!
